@@ -1,2 +1,3 @@
-# python-the-cool-way
-I am Odhis, and I endorse this repo 
+# A cool collection of Python Code Katas and Resources
+
+Part of my #30dayCodeChallenge (comming soon-ish)
